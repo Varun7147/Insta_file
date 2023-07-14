@@ -1,0 +1,136 @@
+.head1{
+    text-align: center;
+    font-size: 40px;
+    font-family: satisfy;
+    font-weight: bold;
+    margin: 35px;
+}
+.box1{
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: rgb(209, 206, 206);
+    text-align: center;
+    width: 28vw;
+    margin-left: 36vw;
+    font-family: sans-serif;
+    height: auto;
+    margin-bottom: 10px;
+    margin-top: 25px;
+    
+  
+
+}
+.box2{
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: rgb(209, 206, 206);
+    text-align: center;
+    width: 28vw;
+    margin-left: 36vw;
+    font-family: sans-serif;
+    height: auto;
+    margin-bottom: 10px;
+    
+}
+.button{
+    font-family: sans-serif;
+    background-color: #64a7e7;
+    border-radius: 5px;
+    text-align: center;
+    width: 21vw;
+    color: white;
+    font-size: 15px;
+    margin: 10px;
+    margin-bottom: 14px;
+    border-width: 0px;
+    height: 30px;
+}
+.bt{
+    background-color: #64a7e7;
+}
+.bt:hover{
+    background-color: rgb(7, 116, 241);
+}
+
+.b{
+    text-align: center;
+}
+.p{
+    padding: 10px;
+}
+.line{
+    width: 10vw;
+    margin-right: 2vw;
+}
+.line2{
+    width: 10vw;
+    margin-left: 2vw;
+}
+.fb{
+    font-weight: bold;
+    color: #0d1050;
+    font-family: sans-serif;
+    margin: 5px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+    flex-direction: row;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    font-size: 15px;
+
+}
+.pass{
+    font-size: 14px;
+    color: rgb(26, 26, 109);
+    padding: 5px;
+    padding-top: 0px;
+    margin-bottom: 19px;
+    margin-top: 0px;
+
+}
+.t{
+    margin: 3px;
+    width: 20vw;
+    margin-top: 0px;
+    height: 5vh;
+    border-width: 1.5px;
+    border-color: rgb(228, 226, 226);
+    border-radius: 2px;
+}
+.t2{
+    margin: 3px;
+    width: 20vw;
+    margin-top: 3px;
+    height: 30px;
+    border-width: 1.5px;
+    border-color: rgb(228, 226, 226);
+    border-radius: 2px;
+}
+.sign{
+    padding: 13px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+.image{
+    width: 16px;
+    height: 16px;
+    padding-right: 5px;
+    
+}
+ p{
+    width: 85%; 
+    text-align: center; 
+    border-bottom: 1px solid #000; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+ } 
+ 
+ p span { 
+     background:#fff; 
+     padding: 10px; 
+     padding-left: 10px;
+     padding-right: 10px;
+     margin-left: 10px;
+     margin-right: 10pxKs;
+ }
